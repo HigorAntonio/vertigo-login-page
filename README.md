@@ -3,7 +3,7 @@
 ![Preview](assets/captures/Captura%20de%20tela.png)
 
 ## 📌 Sobre o Projeto
-Este projeto é uma landing page responsiva criada utilizando **HTML, CSS e JavaScript**.
+Este projeto é uma página de login responsiva criada utilizando **HTML, CSS e JavaScript**.
 
 ## 🌐 Acesse o Projeto
 🔗 [Clique aqui para visualizar a página online](https://higorantonio.github.io/vertigo-login-page/)
