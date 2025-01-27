@@ -1,6 +1,6 @@
 # Formulário de Login Vertigo
 
-![Preview](link_da_imagem_preview)
+![Preview](assets/captures/Captura de tela.png)
 
 ## 📌 Sobre o Projeto
 Este projeto é uma landing page responsiva criada utilizando **HTML, CSS e JavaScript**.
@@ -16,7 +16,7 @@ Este projeto é uma landing page responsiva criada utilizando **HTML, CSS e Java
 ## 📸 Capturas de Tela
 Adicione aqui algumas imagens ou gifs mostrando a landing page em ação.
 
-![Smartphone](link_da_imagem_smartphone)
-![Tablet](link_da_imagem_tablet)
-![Laptop](link_da_imagem_laptop)
-![Monitor](link_da_imagem_monitor)
+![Smartphone](assets/captures/Vertigo Login Page - Mockup Smartphone.png)
+![Tablet](assets/captures/Vertigo Login Page - Mockup Tablet.png)
+![Laptop](assets/captures/Vertigo Login Page - Mockup Laptop.png)
+![Monitor](assets/captures/Vertigo Login Page - Mockup Monitor.png)
