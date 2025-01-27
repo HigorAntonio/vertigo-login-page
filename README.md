@@ -12,3 +12,6 @@ Este projeto é uma landing page responsiva criada utilizando **HTML, CSS e Java
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+
+## 📸 Capturas de Tela
+Adicione aqui algumas imagens ou gifs mostrando a landing page em ação.
