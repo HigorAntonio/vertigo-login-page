@@ -14,7 +14,6 @@ Este projeto é uma landing page responsiva criada utilizando **HTML, CSS e Java
 - **JavaScript**
 
 ## 📸 Capturas de Tela
-Adicione aqui algumas imagens ou gifs mostrando a landing page em ação.
 
 ![Smartphone](assets/captures/Vertigo%20Login%20Page%20-%20Mockup%20Smartphone.png)
 ![Tablet](assets/captures/Vertigo%20Login%20Page%20-%20Mockup%20Tablet.png)
