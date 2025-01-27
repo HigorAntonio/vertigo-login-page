@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Vertigo</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <a href="#"><img src="./assets/logo.svg" alt="Vertigo" /></a>
+      </header>
+      <main>
+        <h1>Acesse a plataforma</h1>
+        <p>
+          Faça login ou registre-se para começar a construir seus projetos ainda
+          hoje.
+        </p>
+        <form action="">
+          <label for="email-input">E-mail</label>
+          <input
+            type="text"
+            name="email"
+            id="email-input"
+            placeholder="Digite seu e-mail"
+          />
+          <div class="password-label-wrapper">
+            <label for="password-input">Senha</label>
+            <a href="#">Esqueceu a senha?</a>
+          </div>
+          <div class="password-input-wrapper">
+            <input
+              type="password"
+              name="password"
+              id="password-input"
+              placeholder="Digite sua senha"
+            />
+            <button type="button"></button>
+          </div>
+          <button type="submit">Entrar</button>
+        </form>
+        <p>Ainda não tem uma conta? <a href="">Inscreva-se</a></p>
+      </main>
+    </div>
+    <div class="image"></div>
+    <script src="./script.js"></script>
+  </body>
+</html>
