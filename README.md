@@ -1,6 +1,6 @@
 # Formulário de Login Vertigo
 
-![Preview]("assets/captures/Captura de tela.png")
+![Preview](assets/captures/Captura%20de%20tela.png)
 
 ## 📌 Sobre o Projeto
 Este projeto é uma landing page responsiva criada utilizando **HTML, CSS e JavaScript**.
