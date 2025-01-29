@@ -18,4 +18,4 @@ Este projeto é uma página de login responsiva criada utilizando **HTML, CSS e 
 ![Smartphone](assets/captures/Vertigo%20Login%20Page%20-%20Mockup%20Smartphone.png)
 ![Tablet](assets/captures/Vertigo%20Login%20Page%20-%20Mockup%20Tablet.png)
 ![Laptop](assets/captures/Vertigo%20Login%20Page%20-%20Mockup%20Laptop.png)
-![Monitor](assets/captures/Vertigo%20Login%20Page%20-%20Mockup%20Monitor.png)
+![Desktop](assets/captures/Vertigo%20Login%20Page%20-%20Mockup%20Monitor.png)
